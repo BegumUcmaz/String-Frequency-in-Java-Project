@@ -1,0 +1,8 @@
+
+public class UniqueWordsInParagraphConstants {
+
+	public static final String ParagraphForUniqueWords = "Lorem Ipsum, dizgi ve baský endüstrisinde kullanýlan mýgýr metinlerdir. Lorem Ipsum, adý bilinmeyen bir matbaacýnýn bir hurufat numune kitabý oluþturmak üzere bir yazý galerisini alarak karýþtýrdýðý 1500'lerden beri endüstri standardý sahte metinler olarak kullanýlmýþtýr. Beþyüz yýl boyunca varlýðýný sürdürmekle kalmamýþ, ayný zamanda pek deðiþmeden elektronik dizgiye de sýçramýþtýr. 1960'larda Lorem Ipsum pasajlarý da içeren Letraset yapraklarýnýn yayýnlanmasý ile ve yakýn zamanda Aldus PageMaker gibi Lorem Ipsum sürümleri içeren masaüstü yayýncýlýk yazýlýmlarý ile popüler olmuþtur.";
+	public static final String ThisIsTheParagraphMessage = "This is the Paragraph:";
+	public static final String UniqueWordsMessage = "These are The Unique Words:";
+	public static final String RegExForSplitWords = "[[ ]*|[,]*|[\\.]*|[:]*|[/]*|[!]*|[;]*|[']*|[?]*|[+]*]+";
+}
